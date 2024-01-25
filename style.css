@@ -1,0 +1,19 @@
+*{
+    background-color: antiquewhite;
+}
+h1{
+color: brown;
+}
+.sec2,h1{
+color: cadetblue;
+text-align: center;
+}
+#form{
+    text-align: center;
+}
+.ab{
+    display: block;
+    margin: auto;
+    width: 100px;
+    height: 100px;
+}
